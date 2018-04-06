@@ -1,0 +1,12 @@
+.footer{
+	-fx-background-color: #d6d6d6;
+	-fx-padding: 0 0 0 8;
+	-fx-border-color: #646464 transparent transparent transparent;
+	-fx-border-width: 1;
+}
+.panels{
+    -fx-pref-width: 300;
+	-fx-background-color: #929292;
+	-fx-border-color: transparent transparent transparent #646464;
+    -fx-border-width: 1;
+}
